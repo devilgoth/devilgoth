@@ -1,3 +1,5 @@
+_<h3 align="center">Humans are doomed to destroy themselves... and that's why I hate every single one of them.</h3>_
+<br>
 <div align="center">
   <h2> Hub links </h2>
   <a href=https://satanshy.com>
