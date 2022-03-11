@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/53/fb/18/53fb185506d7a84eece05e0098796b44.gif"/>
-</div>
-
-<div align="center">
   <h2> Hub links </h2>
   <a href=https://satanshy.com>
   <img align="center" src="https://img.shields.io/badge/satanshy-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF"/>
