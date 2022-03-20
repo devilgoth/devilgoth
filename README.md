@@ -5,8 +5,8 @@ _<h3 align="center">Humans are doomed to destroy themselves... and that's why I 
   <a href=https://satanshy.com>
   <img align="center" src="https://img.shields.io/badge/satanshy-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF"/>
   </a>
-  <a href=https://fallingspirit.xyz>
-  <img align="center" src="https://img.shields.io/badge/fallinspirit-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF"/>
+  <a href=https://satanshy.com/xv>
+  <img align="center" src="https://img.shields.io/badge/fallingspirit-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=00FFFF"/>
   </a>
 </div>
 <br>
